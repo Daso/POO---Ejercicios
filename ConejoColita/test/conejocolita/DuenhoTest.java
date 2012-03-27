@@ -17,7 +17,7 @@ public class DuenhoTest {
     
     @Test
     public void cuandoLeTocoLaOrejaAMiMascotaMueveLaCola(){
-        Duenho duenho = new Duenho("Calos", 5, "Colita");
+        Duenho duenho = new Duenho("Carlos", 5, "Colita");
         String mensajeRecibido = duenho.tocarOreja();
         assertSame("Estoy moviendo la cola",mensajeRecibido);
     }
