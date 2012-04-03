@@ -4,6 +4,7 @@
  */
 package aviario;
 
+import model.Loro;
 import appinterfaces.IAve;
 import junit.framework.Assert;
 import org.junit.Test;

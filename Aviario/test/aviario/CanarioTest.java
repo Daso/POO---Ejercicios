@@ -1,5 +1,6 @@
 package aviario;
 
+import model.Canario;
 import appinterfaces.IAve;
 import appinterfaces.IProducto;
 import junit.framework.Assert;
